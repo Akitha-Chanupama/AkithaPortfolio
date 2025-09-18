@@ -17,7 +17,7 @@ Frontend: React, JavaScript (ES6+), HTML5, CSS3
 Version Control: Git, GitHub
 Deployment: Vercel (CI/CD enabled)
 
-⚙️ Getting Started
+⚙️ Getting Starteds
 
 Follow these steps to run the project locally:
 
