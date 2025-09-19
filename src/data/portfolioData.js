@@ -8,7 +8,7 @@ export const portfolioData = {
     location: "Colombo, Sri Lanka",
     location2: "Gonawala, Kelaniya, Sri Lanka",
     bio: "Passionate Full-Stack developer with deep expertise in React, Flutter, and React Native. I build modern, responsive, and visually engaging applications that will deliver seamless and high-quality user experiences.",
-    resume: "/assets/cv3.pdf"
+    resume: "/assets/Akitha_Chanupama_Resume_.pdf"
   },
   
   skills: {
