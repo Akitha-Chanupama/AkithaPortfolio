@@ -39,7 +39,7 @@ export const portfolioData = {
         description: "Full-featured mobile app to supprt farmers, built with React Native and Firebase",
         tech: ["React Native", "Firebase", "Expo Go"],
         image: "/assets/agri1.jpg",
-        github: "https://github.com/Akitha123Ply/Agrisaviya",
+        github: "https://github.com/Akitha-Chanupama/Agrisaviya",
         demo: "https://www.figma.com/design/VFjMt49W9o4XFMadajNs0F/AgriSaviya?node-id=0-1&t=9eTxxaC6l8u7DbpF-1"
         },
     {
@@ -47,7 +47,7 @@ export const portfolioData = {
       description: "React-based analytics dashboard with real-time data",
       tech: ["React", "TypeScript", "Tailwind CSS", "MongoDB"],
       image: "/assets/proj331.jpg",
-      github: "https://github.com/Akitha123Ply/coursework-group_60",
+      github: "https://github.com/Akitha-Chanupama/coursework-group_60",
       demo: "https://www.figma.com/design/xR64Ve2IQPbVwGaNYPBGwg/FlavourScape?t=9eTxxaC6l8u7DbpF-1"
     },
     {
@@ -55,7 +55,7 @@ export const portfolioData = {
       description: "Creative UI/UX design for a travel booking platform",
       tech: ["Figma"],
       image: "/assets/proj22.jpg",
-      github: "https://github.com/yourusername/project3",
+      github: "https://github.com/Akitha-Chanupama/project3",
       demo: "https://www.figma.com/design/TTGd3L6CaHi7VqprthB6wa/TravelBuddies?t=9eTxxaC6l8u7DbpF-1"
     },
     {

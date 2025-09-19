@@ -50,7 +50,7 @@ export const Projects = () => {
   ];
 
   const handleViewAllProjects = () => {
-    window.open('https://github.com/Akitha123Ply', '_blank');
+    window.open('https://github.com/Akitha-Chanupama', '_blank');
   };
 
   return (
