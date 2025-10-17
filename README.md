@@ -3,7 +3,7 @@
 A modern, responsive, and fast personal portfolio website built with React.
 This portfolio highlights my background, skills, and projects, and serves as a central place for people to connect with me.
 
-✨ Feature
+✨ Features
 
 Responsive design for mobile, tablet, and desktop
 Clean and professional UI/UX
