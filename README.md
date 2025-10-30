@@ -71,7 +71,7 @@ Let's connect and build something awesome together!
 
 * 📧 Email: **[akithachanupama@gmail.com](mailto:akithachanupama@gmail.com)**
 * 🔗 LinkedIn: [https://www.linkedin.com/in/akitha-chanupama-478b4126b](https://www.linkedin.com/in/akitha-chanupama-478b4126b)
-* 🐙 GitHub: [https://github.com/Akitha123Ply](https://github.com/Akitha123Ply)
+* 🐙 GitHub: [https://github.com/Akitha-Chanupama](https://github.com/Akitha-Chanupama)
 
 ---
 
