@@ -216,7 +216,7 @@ export const Hero = () => {
                 <div className="absolute inset-0 bg-gradient-to-r from-cyan-400/20 to-blue-500/20 translate-x-[-100%] group-hover:translate-x-[100%] transition-transform duration-700"></div>
                 <span className="relative flex items-center justify-center space-x-2">
                   <FiMail className="w-4 h-4 lg:w-5 lg:h-5" />
-                  <span className="font-semibold text-sm lg:text-base">Get In Touch</span>
+                  <span className="font-semibold text-sm lg:text-base">Keep In Touch</span>
                 </span>
               </Button>
               
