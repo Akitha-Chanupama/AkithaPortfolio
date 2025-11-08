@@ -103,7 +103,7 @@ export const About = () => {
                 <p className="text-gray-300 leading-relaxed text-base sm:text-lg" style={{ textAlign: 'justify' }}>
                     I'm a passionate software engineer who transforms complex problems into elegant solutions. 
                     With expertise spanning full-stack development, mobile applications, and modern web technologies, 
-                    I creaate digital experiences that not only look stunning but perform flawlessly.
+                    I create digital experiences that not only look stunning but perform flawlessly.
                 </p>
               </div>
             </div>
