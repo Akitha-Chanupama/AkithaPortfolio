@@ -5,7 +5,7 @@ It showcases my background, skills, and projects — a central place to explore 
 
 ---
 
-## ✨ Feaatures
+## ✨ Features
 
 * 📱 Fully responsive design (mobile/tablet/desktop)
 * 🎨 Modern UI/UX with smooth interactions
