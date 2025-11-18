@@ -1,4 +1,4 @@
-# 🌐 Personal Portfolio Website
+# 🌐 AKITHACHANUPAMA.COM
 
 A modern, responsive, and fast personal portfolio website built with **React**.
 It showcases my background, skills, and projects, a central place to explore and connect with me 🚀
