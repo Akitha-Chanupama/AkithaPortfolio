@@ -38,7 +38,7 @@ It showcases my background, skills, and projects, a central place to explore and
 ```bash
 # Clone the repository
 git clone https://github.com/Akitha-Chanupama/AkithaPortfolio.git
-cd portfolio
+cd AkithaPortfolio
 
 # Install dependencies
 npm install
