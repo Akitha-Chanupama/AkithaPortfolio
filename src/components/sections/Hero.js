@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { FiGithub, FiLinkedin, FiMail, FiArrowDown, FiDownload, FiMapPin, FiPhone, FiCode, FiTerminal, FiCpu } from 'react-icons/fi';
 import { Button } from '../ui/Button';
 import { portfolioData } from '../../data/portfolioData';
-import akithaImage from '../../assets/akitha_grad.jpg';
+import akithaImage from '../../assets/akitha_grad1.jpg';
 import cvPdf from '../../assets/Akitha_Chanupama_Resume_.pdf';
 
 export const Hero = () => {
