@@ -4,7 +4,7 @@ export const portfolioData = {
     name: "AKITHA CHANUPAMA",
     title: "FULL-STACK DEVELOPER",
     email: "akithachanupama@gmail.com",
-    phone: "+94 70 456 6135",
+    phone: "+94 71 456 6135",
     location: "Colombo, Sri Lanka",
     location2: "Gonawala, Kelaniya, Sri Lanka",
     bio: "Passionate Full-Stack developer with deep expertise in React, Flutter, and React Native. I build modern, responsive, and visually engaging applications that will deliver seamless and high-quality user experiences.",
